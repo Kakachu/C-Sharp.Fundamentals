@@ -1,0 +1,15 @@
+D:\Dev\balta.io\Projects\Calculator\Calculator\bin\Debug\net7.0\Calculator.exe
+D:\Dev\balta.io\Projects\Calculator\Calculator\bin\Debug\net7.0\Calculator.deps.json
+D:\Dev\balta.io\Projects\Calculator\Calculator\bin\Debug\net7.0\Calculator.runtimeconfig.json
+D:\Dev\balta.io\Projects\Calculator\Calculator\bin\Debug\net7.0\Calculator.dll
+D:\Dev\balta.io\Projects\Calculator\Calculator\bin\Debug\net7.0\Calculator.pdb
+D:\Dev\balta.io\Projects\Calculator\Calculator\obj\Debug\net7.0\Calculator.csproj.AssemblyReference.cache
+D:\Dev\balta.io\Projects\Calculator\Calculator\obj\Debug\net7.0\Calculator.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dev\balta.io\Projects\Calculator\Calculator\obj\Debug\net7.0\Calculator.AssemblyInfoInputs.cache
+D:\Dev\balta.io\Projects\Calculator\Calculator\obj\Debug\net7.0\Calculator.AssemblyInfo.cs
+D:\Dev\balta.io\Projects\Calculator\Calculator\obj\Debug\net7.0\Calculator.csproj.CoreCompileInputs.cache
+D:\Dev\balta.io\Projects\Calculator\Calculator\obj\Debug\net7.0\Calculator.dll
+D:\Dev\balta.io\Projects\Calculator\Calculator\obj\Debug\net7.0\refint\Calculator.dll
+D:\Dev\balta.io\Projects\Calculator\Calculator\obj\Debug\net7.0\Calculator.pdb
+D:\Dev\balta.io\Projects\Calculator\Calculator\obj\Debug\net7.0\Calculator.genruntimeconfig.cache
+D:\Dev\balta.io\Projects\Calculator\Calculator\obj\Debug\net7.0\ref\Calculator.dll

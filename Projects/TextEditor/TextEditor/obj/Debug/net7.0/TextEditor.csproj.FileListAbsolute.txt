@@ -1,0 +1,15 @@
+D:\Dev\balta.io\C# Fundamentals\Projects\TextEditor\TextEditor\bin\Debug\net7.0\TextEditor.exe
+D:\Dev\balta.io\C# Fundamentals\Projects\TextEditor\TextEditor\bin\Debug\net7.0\TextEditor.deps.json
+D:\Dev\balta.io\C# Fundamentals\Projects\TextEditor\TextEditor\bin\Debug\net7.0\TextEditor.runtimeconfig.json
+D:\Dev\balta.io\C# Fundamentals\Projects\TextEditor\TextEditor\bin\Debug\net7.0\TextEditor.dll
+D:\Dev\balta.io\C# Fundamentals\Projects\TextEditor\TextEditor\bin\Debug\net7.0\TextEditor.pdb
+D:\Dev\balta.io\C# Fundamentals\Projects\TextEditor\TextEditor\obj\Debug\net7.0\TextEditor.csproj.AssemblyReference.cache
+D:\Dev\balta.io\C# Fundamentals\Projects\TextEditor\TextEditor\obj\Debug\net7.0\TextEditor.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dev\balta.io\C# Fundamentals\Projects\TextEditor\TextEditor\obj\Debug\net7.0\TextEditor.AssemblyInfoInputs.cache
+D:\Dev\balta.io\C# Fundamentals\Projects\TextEditor\TextEditor\obj\Debug\net7.0\TextEditor.AssemblyInfo.cs
+D:\Dev\balta.io\C# Fundamentals\Projects\TextEditor\TextEditor\obj\Debug\net7.0\TextEditor.csproj.CoreCompileInputs.cache
+D:\Dev\balta.io\C# Fundamentals\Projects\TextEditor\TextEditor\obj\Debug\net7.0\TextEditor.dll
+D:\Dev\balta.io\C# Fundamentals\Projects\TextEditor\TextEditor\obj\Debug\net7.0\refint\TextEditor.dll
+D:\Dev\balta.io\C# Fundamentals\Projects\TextEditor\TextEditor\obj\Debug\net7.0\TextEditor.pdb
+D:\Dev\balta.io\C# Fundamentals\Projects\TextEditor\TextEditor\obj\Debug\net7.0\TextEditor.genruntimeconfig.cache
+D:\Dev\balta.io\C# Fundamentals\Projects\TextEditor\TextEditor\obj\Debug\net7.0\ref\TextEditor.dll

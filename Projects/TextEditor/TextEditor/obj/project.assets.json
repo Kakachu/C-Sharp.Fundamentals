@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Dev\\balta.io\\Projects\\TextEditor\\TextEditor\\TextEditor.csproj",
+      "projectUniqueName": "D:\\Dev\\balta.io\\C# Fundamentals\\Projects\\TextEditor\\TextEditor\\TextEditor.csproj",
       "projectName": "TextEditor",
-      "projectPath": "D:\\Dev\\balta.io\\Projects\\TextEditor\\TextEditor\\TextEditor.csproj",
+      "projectPath": "D:\\Dev\\balta.io\\C# Fundamentals\\Projects\\TextEditor\\TextEditor\\TextEditor.csproj",
       "packagesPath": "C:\\Users\\kauaj\\.nuget\\packages\\",
-      "outputPath": "D:\\Dev\\balta.io\\Projects\\TextEditor\\TextEditor\\obj\\",
+      "outputPath": "D:\\Dev\\balta.io\\C# Fundamentals\\Projects\\TextEditor\\TextEditor\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "D:\\Microsoft Visual Studio\\Shared\\NuGetPackages"

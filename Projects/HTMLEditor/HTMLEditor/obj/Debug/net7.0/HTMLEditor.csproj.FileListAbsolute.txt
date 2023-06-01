@@ -1,0 +1,30 @@
+D:\Dev\balta.io\Projects\HTMLEditor\HTMLEditor\bin\Debug\net7.0\HTMLEditor.exe
+D:\Dev\balta.io\Projects\HTMLEditor\HTMLEditor\bin\Debug\net7.0\HTMLEditor.deps.json
+D:\Dev\balta.io\Projects\HTMLEditor\HTMLEditor\bin\Debug\net7.0\HTMLEditor.runtimeconfig.json
+D:\Dev\balta.io\Projects\HTMLEditor\HTMLEditor\bin\Debug\net7.0\HTMLEditor.dll
+D:\Dev\balta.io\Projects\HTMLEditor\HTMLEditor\bin\Debug\net7.0\HTMLEditor.pdb
+D:\Dev\balta.io\Projects\HTMLEditor\HTMLEditor\obj\Debug\net7.0\HTMLEditor.csproj.AssemblyReference.cache
+D:\Dev\balta.io\Projects\HTMLEditor\HTMLEditor\obj\Debug\net7.0\HTMLEditor.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dev\balta.io\Projects\HTMLEditor\HTMLEditor\obj\Debug\net7.0\HTMLEditor.AssemblyInfoInputs.cache
+D:\Dev\balta.io\Projects\HTMLEditor\HTMLEditor\obj\Debug\net7.0\HTMLEditor.AssemblyInfo.cs
+D:\Dev\balta.io\Projects\HTMLEditor\HTMLEditor\obj\Debug\net7.0\HTMLEditor.csproj.CoreCompileInputs.cache
+D:\Dev\balta.io\Projects\HTMLEditor\HTMLEditor\obj\Debug\net7.0\HTMLEditor.dll
+D:\Dev\balta.io\Projects\HTMLEditor\HTMLEditor\obj\Debug\net7.0\refint\HTMLEditor.dll
+D:\Dev\balta.io\Projects\HTMLEditor\HTMLEditor\obj\Debug\net7.0\HTMLEditor.pdb
+D:\Dev\balta.io\Projects\HTMLEditor\HTMLEditor\obj\Debug\net7.0\HTMLEditor.genruntimeconfig.cache
+D:\Dev\balta.io\Projects\HTMLEditor\HTMLEditor\obj\Debug\net7.0\ref\HTMLEditor.dll
+D:\Dev\balta.io\C# Fundamentals\Projects\HTMLEditor\HTMLEditor\bin\Debug\net7.0\HTMLEditor.exe
+D:\Dev\balta.io\C# Fundamentals\Projects\HTMLEditor\HTMLEditor\bin\Debug\net7.0\HTMLEditor.deps.json
+D:\Dev\balta.io\C# Fundamentals\Projects\HTMLEditor\HTMLEditor\bin\Debug\net7.0\HTMLEditor.runtimeconfig.json
+D:\Dev\balta.io\C# Fundamentals\Projects\HTMLEditor\HTMLEditor\bin\Debug\net7.0\HTMLEditor.dll
+D:\Dev\balta.io\C# Fundamentals\Projects\HTMLEditor\HTMLEditor\bin\Debug\net7.0\HTMLEditor.pdb
+D:\Dev\balta.io\C# Fundamentals\Projects\HTMLEditor\HTMLEditor\obj\Debug\net7.0\HTMLEditor.csproj.AssemblyReference.cache
+D:\Dev\balta.io\C# Fundamentals\Projects\HTMLEditor\HTMLEditor\obj\Debug\net7.0\HTMLEditor.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dev\balta.io\C# Fundamentals\Projects\HTMLEditor\HTMLEditor\obj\Debug\net7.0\HTMLEditor.AssemblyInfoInputs.cache
+D:\Dev\balta.io\C# Fundamentals\Projects\HTMLEditor\HTMLEditor\obj\Debug\net7.0\HTMLEditor.AssemblyInfo.cs
+D:\Dev\balta.io\C# Fundamentals\Projects\HTMLEditor\HTMLEditor\obj\Debug\net7.0\HTMLEditor.csproj.CoreCompileInputs.cache
+D:\Dev\balta.io\C# Fundamentals\Projects\HTMLEditor\HTMLEditor\obj\Debug\net7.0\HTMLEditor.dll
+D:\Dev\balta.io\C# Fundamentals\Projects\HTMLEditor\HTMLEditor\obj\Debug\net7.0\refint\HTMLEditor.dll
+D:\Dev\balta.io\C# Fundamentals\Projects\HTMLEditor\HTMLEditor\obj\Debug\net7.0\HTMLEditor.pdb
+D:\Dev\balta.io\C# Fundamentals\Projects\HTMLEditor\HTMLEditor\obj\Debug\net7.0\HTMLEditor.genruntimeconfig.cache
+D:\Dev\balta.io\C# Fundamentals\Projects\HTMLEditor\HTMLEditor\obj\Debug\net7.0\ref\HTMLEditor.dll

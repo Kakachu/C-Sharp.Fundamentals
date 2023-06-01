@@ -41,7 +41,7 @@ namespace HTMLEditor
 							)
 						)
 					);
-					Console.WriteLine(" ");
+					Console.Write(" ");
 				}
 				else
 				{

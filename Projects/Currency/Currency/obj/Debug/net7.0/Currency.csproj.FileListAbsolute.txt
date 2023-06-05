@@ -1,0 +1,15 @@
+D:\Dev\balta.io\C# Fundamentals\Projects\Currency\Currency\bin\Debug\net7.0\Currency.exe
+D:\Dev\balta.io\C# Fundamentals\Projects\Currency\Currency\bin\Debug\net7.0\Currency.deps.json
+D:\Dev\balta.io\C# Fundamentals\Projects\Currency\Currency\bin\Debug\net7.0\Currency.runtimeconfig.json
+D:\Dev\balta.io\C# Fundamentals\Projects\Currency\Currency\bin\Debug\net7.0\Currency.dll
+D:\Dev\balta.io\C# Fundamentals\Projects\Currency\Currency\bin\Debug\net7.0\Currency.pdb
+D:\Dev\balta.io\C# Fundamentals\Projects\Currency\Currency\obj\Debug\net7.0\Currency.csproj.AssemblyReference.cache
+D:\Dev\balta.io\C# Fundamentals\Projects\Currency\Currency\obj\Debug\net7.0\Currency.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dev\balta.io\C# Fundamentals\Projects\Currency\Currency\obj\Debug\net7.0\Currency.AssemblyInfoInputs.cache
+D:\Dev\balta.io\C# Fundamentals\Projects\Currency\Currency\obj\Debug\net7.0\Currency.AssemblyInfo.cs
+D:\Dev\balta.io\C# Fundamentals\Projects\Currency\Currency\obj\Debug\net7.0\Currency.csproj.CoreCompileInputs.cache
+D:\Dev\balta.io\C# Fundamentals\Projects\Currency\Currency\obj\Debug\net7.0\Currency.dll
+D:\Dev\balta.io\C# Fundamentals\Projects\Currency\Currency\obj\Debug\net7.0\refint\Currency.dll
+D:\Dev\balta.io\C# Fundamentals\Projects\Currency\Currency\obj\Debug\net7.0\Currency.pdb
+D:\Dev\balta.io\C# Fundamentals\Projects\Currency\Currency\obj\Debug\net7.0\Currency.genruntimeconfig.cache
+D:\Dev\balta.io\C# Fundamentals\Projects\Currency\Currency\obj\Debug\net7.0\ref\Currency.dll

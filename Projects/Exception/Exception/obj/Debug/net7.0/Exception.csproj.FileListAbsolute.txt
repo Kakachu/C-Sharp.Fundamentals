@@ -1,0 +1,15 @@
+D:\Dev\balta.io\C# Fundamentals\Projects\Exception\Exception\bin\Debug\net7.0\Exception.exe
+D:\Dev\balta.io\C# Fundamentals\Projects\Exception\Exception\bin\Debug\net7.0\Exception.deps.json
+D:\Dev\balta.io\C# Fundamentals\Projects\Exception\Exception\bin\Debug\net7.0\Exception.runtimeconfig.json
+D:\Dev\balta.io\C# Fundamentals\Projects\Exception\Exception\bin\Debug\net7.0\Exception.dll
+D:\Dev\balta.io\C# Fundamentals\Projects\Exception\Exception\bin\Debug\net7.0\Exception.pdb
+D:\Dev\balta.io\C# Fundamentals\Projects\Exception\Exception\obj\Debug\net7.0\Exception.csproj.AssemblyReference.cache
+D:\Dev\balta.io\C# Fundamentals\Projects\Exception\Exception\obj\Debug\net7.0\Exception.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dev\balta.io\C# Fundamentals\Projects\Exception\Exception\obj\Debug\net7.0\Exception.AssemblyInfoInputs.cache
+D:\Dev\balta.io\C# Fundamentals\Projects\Exception\Exception\obj\Debug\net7.0\Exception.AssemblyInfo.cs
+D:\Dev\balta.io\C# Fundamentals\Projects\Exception\Exception\obj\Debug\net7.0\Exception.csproj.CoreCompileInputs.cache
+D:\Dev\balta.io\C# Fundamentals\Projects\Exception\Exception\obj\Debug\net7.0\Exception.dll
+D:\Dev\balta.io\C# Fundamentals\Projects\Exception\Exception\obj\Debug\net7.0\refint\Exception.dll
+D:\Dev\balta.io\C# Fundamentals\Projects\Exception\Exception\obj\Debug\net7.0\Exception.pdb
+D:\Dev\balta.io\C# Fundamentals\Projects\Exception\Exception\obj\Debug\net7.0\Exception.genruntimeconfig.cache
+D:\Dev\balta.io\C# Fundamentals\Projects\Exception\Exception\obj\Debug\net7.0\ref\Exception.dll
